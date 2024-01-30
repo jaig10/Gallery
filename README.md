@@ -1,8 +1,4 @@
-Certainly! Let's delve deeper into each section:
-
----
-
-# Reddit Image Gallery
+# Image Gallery
 
 This repository hosts a Next.js application that taps into the Reddit API to curate and present an immersive gallery experience, showcasing a variety of images sourced from Reddit communities. With seamless integration of `react-photo-album` and `yet-another-react-lightbox`, users can explore captivating visuals in a user-friendly interface.
 
